@@ -1,4 +1,4 @@
-# process-manager
+# Operating Sysyem Process-Manager
 Process Manager (Pman) supports commands to run, stop, start, kill and list processes.
 
 To compile code enter "make" in the terminal.
