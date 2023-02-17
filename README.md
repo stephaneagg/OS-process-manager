@@ -17,3 +17,5 @@ Pman is a Process Manager which supports the following commands
   
 inf.c is a program used to test Pman. It will continuously print a specified string at a specified interval. This is useful as it is a process that can be easily identified as running or not.
 to call inf.c enter in the terminal "./inf <string-to-print> <interval>"
+
+This project was an assignment in CSC 360 Operating Systems intended to get farmiliar with system calls related to process management, and the process control block (PCB).
